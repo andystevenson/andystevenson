@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on general development things that interest me.
+- 🌱 I’m currently learning web development technologies (nodejs, js, css...)
+- 👯 I’m looking to collaborate on... nothing for certain at the moment, will reach out in future
+- 🤔 I’m looking for help with finding good design content for sports websites (images, videos, fonts etc)
+- 💬 Ask me about software development in general
+- 📫 How to reach me: here on github or andystevenson@mac.com
+- 😄 Pronouns: i/me/we/us
+- ⚡ Fun fact: born in Scotland, grew up in Zambia/Qatar, lived in France/Germany/India
+
 <!--
 **andystevenson/andystevenson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
